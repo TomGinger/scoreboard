@@ -1,0 +1,65 @@
+
+body {
+    margin: 0;
+    background: #1c2945;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    color: white;
+}
+
+button {
+    background: white;
+    border: 2px solid #9AABD8;
+    border-radius: 5px;
+    padding: 5px 10px;
+    background: #1c2945;
+    color: #9AABD8;
+    font-size: 18px;
+    margin: 26px 0;
+}
+
+h4 {
+    border: 5px solid black;
+    border-radius: 5px;
+    background: black;
+    height: 120px;
+    font-size: 90px;
+    margin: 10px 0;
+    color: #F94F6D;
+    padding: 5px;
+    
+}
+
+h3 {
+    margin: 21px 12px;
+}
+
+/* Home score */
+
+#home-score  {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+    text-align: center;
+}
+
+/* New Game */
+
+#newGame {
+    margin-top: 100px;
+}
+
+/* Guest score */
+
+#guest-score  {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+    text-align: center;
+}
+
+
+
+
+   
